@@ -1,2 +1,2 @@
 # Bmi4web
-My Bmi calculator webapp runs on a python backend. It basically allows users to log in and uses there data to interact with them for instance, It greets users by their names("Hello Mike!"). And as you might guess, takes their data inputs and returns their body mass index using jinja templates. Although the html and styling are not finished yet, the goal is to make it look appealing to user.
+Bmi calculator turned up-a-notch, runs on a python backend. It basically allows users to log in and uses there data to interact with them. And as you might guess, takes user inputs and returns their body mass index using jinja templates. 
